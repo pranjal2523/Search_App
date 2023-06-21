@@ -1,6 +1,5 @@
 # Search_App
-Simple Django app that take a query from the user and based on that query it fetches the all the similar dishes that matches the query
-
+Simple Django app that take a query from the user and based on that query it fetches the all the similar dishes from the database.
 ## ScreenShots 
 <img src="/dish_search_app/templates/Screenshot%202023-06-21%20222618.png" >
 <img src="/dish_search_app/templates/Screenshot%202023-06-21%20222704.png" >
