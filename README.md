@@ -15,10 +15,10 @@ Simple Django app that take a query from the user and based on that query it fet
   	env_name\scripts\activate
 	
 ## Install Django and all Modules with pip
-	pip install -r requirement.txt 
+	pip install -r requirements.txt 
  
 ## Update requirements.txt file
-	pip3 freeze > requirement.txt
+	pip3 freeze > requirements.txt
 
 ## Run Django Server
 	python manage.py runserver
